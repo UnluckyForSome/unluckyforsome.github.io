@@ -7,7 +7,7 @@
         <meta name="title" content="Item Title" />
         <meta name="keywords" content="{{keywords}}" />
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="https://unluckyforsome.github.io/ebay/css/style.css">
 	</head>
 	<body>
 		<main>
@@ -44,39 +44,8 @@
 					<div class="description">
                         <div vocab="https://schema.org/" typeof="Product">
                                       <span property="description">
-                                       <p>Get your nostalgia fix with this lovingly put-together retro blast from the past!</p>
-										
-										<p>The GPi case from RetroFlag resembles the classic 1989 Gameboy - but when paired with a Raspberry Pi Zero and a MicroSD Memory Card, it can do magical things!</p>
-										
-										<p>With the FrugalFPS GPi the setup for this magical combo has all been done for you. The software has been pre-installed - including exclusive pixel-perfect boot screens, navigational menus and safe shutdown scripts correctly configured and ready to go, leaving you with a bespoke, tested & polished child-friendly experience which you won't get with other GPi sellers.</p>
-										
-										<p><h3>Package Contents:</h3>
-										
-											<ul>
-												<li>1x GPi Case With Original Box & Documentation</li>
-													<li>1x Raspberry Pi Zero (Pre-Fitted)</li>
-														<li>1x 32GB Micro SD Memory Card (Pre-Fitted)</li>
-															<li>1x DC 5.0V Power Cable</li>
-											</ul>
-										</p>
-										<p>
-										<h3>Features:</h3>
+                                       <p>Game to your hearts content with this GPi case</p>
 
-										
-											<ul><li>Bespoke Software Setup Keeping Things Clean & Easy To Read</li>
-												<li>Over 30+ Systems Supported, from Nintendo Gameboy to Sega Megadrive!</li>
-												<li>Detailed Backlit 2.8 Inch IPS Screen</li>
-												<li>Power Switch & LED Power Indicator</li>
-												<li>DC Power Input</li>
-												<li>Brightness & Volume Adjust Wheels</li>
-												<li>Hidden Rear R/L Shoulder Buttons</li>
-												<li>Battery Pocket For 3xAA Batteries</li>
-												<li>Speaker Grill</li>
-												<li>3.5mm Headphone Jack</li></ul></p>
-										<p><h3>Please Note:</h3>
-										<ul><li>No batteries included</li>
-											<li><b>No games</b> included as standard (please message us and we can help you with this</li>
-											</ul></p>
                                       </span>
                                     </div>
 							
@@ -126,3 +95,46 @@
 		</main>
 	</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get your nostalgia fix with this lovingly put-together retro blast from the past!
+
+The GPi case from RetroFlag resembles the classic 1989 Gameboy - but when paired with a Raspberry Pi Zero and a MicroSD Memory Card, it can do magical things!
+
+With the FrugalFPS GPi the setup for this magical combo has all been done for you. The software has been pre-installed - including exclusive pixel-perfect boot screens, navigational menu's and safe shutdown scripts correctly configured and ready to go, leaving you with a bespoke tested & polished child-friendly experience which you won't get with other GPi sellers.
+
+Features
+
+    Thousands of games ready! Over 25 Systems Supported, from Nintendo Gameboy to Sega Megadrive!
+    Detailed Backlit 2.8 Inch IPS Screen
+    3.5mm audio port
+    LED power indicator
+
