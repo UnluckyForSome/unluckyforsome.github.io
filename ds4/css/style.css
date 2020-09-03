@@ -284,3 +284,7 @@ p {
 	font-weight: bold;
 	color: #FFF;
 }
+
+.description img {
+	align-content: center;
+}
