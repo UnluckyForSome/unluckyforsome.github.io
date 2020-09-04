@@ -319,7 +319,7 @@ p {
     color: #323b47;
 }
 
-.aboutus ul li {
+.aboutus {
 	padding: 5px 10px 5px 20px;
 	background: url(https://5ivot.com/ebay/templates/images/temp6/bullet.png) left 10px no-repeat;
 	font-weight: 300;
