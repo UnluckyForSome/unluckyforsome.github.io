@@ -285,7 +285,6 @@ p {
 	color: #FFF;
 }
 
-.description img {
-	align-content: center;
-	text-align: center;
+.imagewrapper {
+    text-align: center;
 }
